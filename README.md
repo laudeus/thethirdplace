@@ -101,8 +101,8 @@ A future release may include:
 For rights, licensing, bulk purchases, speaking engagements, or workshop collaborations:
 
 - **Email:** [harold@laudeus.ca](mailto:harold@laudeus.ca)  
-- **Portfolio / more work:** [add your portfolio URL if/when live]  
-- **LinkedIn:** [add your LinkedIn URL if desired]
+- **Portfolio / more work:** [harold.laudeus.ca]  
+- **Facebook:** [https://www.facebook.com/laudeus]
 
 When contacting, please include:
 - Your organization or community group (if any)  
@@ -125,9 +125,7 @@ For permissions, translations, or excerpt requests, contact: [harold@laudeus.ca]
 
 If you reference this book in research, articles, or presentations, a suggested citation format is:
 
-> Laudeus, Harold. *The Third Place: Rebuilding Canadian Community Through the Blueprint of Odd Fellowship*. Common Ground Press, 2026. Manuscript source: https://github.com/[your-username]/the-third-place
-
-(Replace `[your-username]` with your GitHub username once the repo is created.)
+> Laudeus, Harold. *The Third Place: Rebuilding Canadian Community Through the Blueprint of Odd Fellowship*. Aionfinity Press, 2026. Manuscript source: https://github.com/laudeus/the-third-place
 
 ---
 
